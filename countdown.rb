@@ -17,3 +17,5 @@ def countdown_with_sleep(num_secs)
 end 
 
 num_secs = 1
+
+countdown(5)
